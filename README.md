@@ -46,7 +46,7 @@ Change the value of `p` to model different allele frequencies and see how the ge
 
 Running the default parameters (`p=0.6`, `q=0.4`) produces:
 
-![image alt](https://github.com/Shubh076/Hardy-Weinberg-PythonSimulator/blob/c0b7c0e5598dc51b4ba62acb5574733e69a0fd4e/HW_sim.png)
+![image alt](https://github.com/Shubh076/Hardy-Weinberg-PythonSimulator/blob/6588bbd8a3aca140542a07316cff38d4f86a8fe1/HW_sim.png)
 
 ## License 
 This project is licensed under MIT license
