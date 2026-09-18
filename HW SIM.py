@@ -1,15 +1,15 @@
 import matplotlib.pyplot as plt
 
 """1.BASE"""
-p = 0.6 #dominant allele
-q = 1 - p  #recessive allele
+p = 0.6 
+q = 1 - p  
 print(f"p (allele A) = {p}")
 print(f"q (allele A) = {q}")
 
 """2.EQUATION"""
-AA = p ** 2 #homozygous dominant
-Aa = 2 * p * q #heterozygous
-aa = q ** 2  #homozygous recessive
+AA = p ** 2 
+Aa = 2 * p * q 
+aa = q ** 2  
 
 print(f"AA (homozygous dominant) = {AA:.2f}")
 print(f"Aa (heterozygous) = {Aa:.2f})")
